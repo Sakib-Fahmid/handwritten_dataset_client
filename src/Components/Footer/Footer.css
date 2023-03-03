@@ -1,0 +1,11 @@
+.parent-sticky-footer{
+    border: 0px;
+}
+.sticky-footer{
+    /* min-height: 0%; */
+    width: 100%;
+    position:fixed;
+    top: 85vh;
+    /* bottom:0; */
+    padding: 80px 0;
+}
